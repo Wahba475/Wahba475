@@ -63,10 +63,6 @@ Currently, I'm deepening my backend and AI engineering skills .
 - **Backend Engineering** — REST APIs, authentication, database integration, and scalable service architecture
 - **Cloud & DevOps** — AWS, Docker, deployment, and CI/CD
 
-### Experience
-
-**Software Engineering Intern — Facilis.ai**  
-Worked on production web applications using React, TypeScript, Node.js, and MongoDB, including REST APIs, authentication, backend optimization, and collaborative Git workflows. :contentReference[oaicite:1]{index=1}
 
 ### Let's Connect
 
