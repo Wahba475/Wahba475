@@ -6,7 +6,7 @@ I'm a Computer Engineering student at the German University in Cairo, graduating
 
 I build full-stack applications and AI-powered backend systems, with a growing focus on LLM applications, RAG, multi-agent systems, and cloud infrastructure.
 
-Currently, I'm deepening my backend and AI engineering skills while studying for the AWS Solutions Architect – Associate certification.
+Currently, I'm deepening my backend and AI engineering skills .
 
 ### What I'm Working On
 
